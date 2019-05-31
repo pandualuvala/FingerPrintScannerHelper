@@ -1,0 +1,11 @@
+C:\GoldCube\projectscopy\GoldCube.FingerPrintScanner.Helpers\GoldCube.FingerPrintScanner.Helpers\bin\Debug\GoldCube.FingerPrintScanner.Helpers.dll
+C:\GoldCube\projectscopy\GoldCube.FingerPrintScanner.Helpers\GoldCube.FingerPrintScanner.Helpers\bin\Debug\GoldCube.FingerPrintScanner.Helpers.pdb
+C:\GoldCube\projectscopy\GoldCube.FingerPrintScanner.Helpers\GoldCube.FingerPrintScanner.Helpers\bin\Debug\DPFPDevNET.dll
+C:\GoldCube\projectscopy\GoldCube.FingerPrintScanner.Helpers\GoldCube.FingerPrintScanner.Helpers\bin\Debug\DPFPEngNET.dll
+C:\GoldCube\projectscopy\GoldCube.FingerPrintScanner.Helpers\GoldCube.FingerPrintScanner.Helpers\bin\Debug\DPFPGuiNet.dll
+C:\GoldCube\projectscopy\GoldCube.FingerPrintScanner.Helpers\GoldCube.FingerPrintScanner.Helpers\bin\Debug\DPFPShrNET.dll
+C:\GoldCube\projectscopy\GoldCube.FingerPrintScanner.Helpers\GoldCube.FingerPrintScanner.Helpers\bin\Debug\DPFPVerNET.dll
+C:\GoldCube\projectscopy\GoldCube.FingerPrintScanner.Helpers\GoldCube.FingerPrintScanner.Helpers\obj\Debug\GoldCube.FingerPrintScanner.Helpers.csproj.CoreCompileInputs.cache
+C:\GoldCube\projectscopy\GoldCube.FingerPrintScanner.Helpers\GoldCube.FingerPrintScanner.Helpers\obj\Debug\GoldCube.FingerPrintScanner.Helpers.csproj.CopyComplete
+C:\GoldCube\projectscopy\GoldCube.FingerPrintScanner.Helpers\GoldCube.FingerPrintScanner.Helpers\obj\Debug\GoldCube.FingerPrintScanner.Helpers.dll
+C:\GoldCube\projectscopy\GoldCube.FingerPrintScanner.Helpers\GoldCube.FingerPrintScanner.Helpers\obj\Debug\GoldCube.FingerPrintScanner.Helpers.pdb
