@@ -1,0 +1,1 @@
+GoldCube.FingerPrintScanner.Helpers
