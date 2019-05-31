@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>Package</id>
+    <id>GoldCube.FingerPrintScanner.Helpers</id>
     <version>1.0.0</version>
     <authors>pandu</authors>
     <owners>pandu</owners>
@@ -12,13 +12,13 @@
     <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
     <copyright>Copyright 2019</copyright>
     <tags>Tag1 Tag2</tags>
-    <dependencies>
-      <dependency id="DPFPDevNET" version="1.6.1.0" />
-      <dependency id="DPFPEngNET" version="1.6.1.0" />
-      <dependency id="DPFPGuiNet" version="1.6.1.0" />
-      <dependency id="DPFPShrNET" version="1.6.1.0" />
-      <dependency id="DPFPShrXTypeLibNET" version="1.6.1.0" />
-      <dependency id="DPFPVerNET" version="1.6.1.0" />
-    </dependencies>
   </metadata>
+  <files>
+    <file src="lib\DPFPDevNET.dll" target="lib\net461\" />
+    <file src="lib\DPFPEngNET.dll" target="lib\net461\" />
+    <file src="lib\DPFPGuiNET.dll" target="lib\net461\" />
+    <file src="lib\DPFPShrNET.dll" target="lib\net461\" />
+    <file src="lib\DPFPVerNET.dll" target="lib\net461\" />
+    <file src="lib\DPFPShrXTypeLibNET.dll" target="lib\net461\" />
+  </files>
 </package>
